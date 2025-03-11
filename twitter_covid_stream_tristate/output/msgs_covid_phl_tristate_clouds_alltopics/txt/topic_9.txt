@@ -1,0 +1,15 @@
+covid	25	810000
+19	16	b20b16
+testing	15	b61233
+patients	14	991452
+positive	13	401db1
+tested	13	5c1a92
+test	13	791873
+covid19	11	4141bc
+hospital	11	3030c7
+symptoms	11	2320cf
+risk	10	9898a0
+care	10	868699
+tests	10	767698
+sick	10	6565a4
+nurse	10	5454af

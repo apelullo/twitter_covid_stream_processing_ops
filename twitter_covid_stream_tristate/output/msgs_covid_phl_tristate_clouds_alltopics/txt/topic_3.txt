@@ -1,0 +1,15 @@
+@realdonaldtrump	25	810000
+trump	23	b20b16
+coronavirus	18	b61233
+president	14	991452
+news	11	401db1
+response	11	5c1a92
+states	11	791873
+country	10	9898a0
+@cnn	10	868699
+job	10	767698
+americans	10	6565a4
+@potus	10	5454af
+administration	10	4141bc
+@whitehouse	10	3030c7
+obama	10	2320cf

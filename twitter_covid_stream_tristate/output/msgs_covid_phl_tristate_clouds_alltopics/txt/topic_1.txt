@@ -1,0 +1,15 @@
+quarantine	25	810000
+day	13	b20b16
+made	12	991452
+good	12	b61233
+#quarantinelife	11	401db1
+food	11	5c1a92
+make	11	791873
+birthday	10	9898a0
+dinner	10	868699
+quarantined	10	767698
+love	10	6565a4
+tonight	10	5454af
+hot	10	4141bc
+happy	10	3030c7
+eating	10	2320cf

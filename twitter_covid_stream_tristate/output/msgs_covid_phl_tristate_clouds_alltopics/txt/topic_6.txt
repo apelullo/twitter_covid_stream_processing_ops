@@ -1,0 +1,15 @@
+virus	25	810000
+china	17	b20b16
+world	15	b61233
+spread	11	401db1
+chinese	11	5c1a92
+stop	11	791873
+country	11	991452
+government	10	9898a0
+black	10	868699
+wuhan	10	767698
+covid19	10	6565a4
+american	10	5454af
+america	10	4141bc
+spreading	10	3030c7
+media	10	2320cf

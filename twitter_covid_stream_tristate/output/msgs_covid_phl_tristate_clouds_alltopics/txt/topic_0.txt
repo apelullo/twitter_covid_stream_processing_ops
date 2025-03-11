@@ -1,0 +1,15 @@
+mask	25	810000
+masks	20	b20b16
+wearing	13	791873
+face	13	991452
+wear	13	b61233
+social	12	5c1a92
+distancing	11	401db1
+don	10	9898a0
+make	10	868699
+store	10	767698
+gloves	10	6565a4
+put	10	5454af
+hands	10	4141bc
+public	10	3030c7
+distance	10	2320cf

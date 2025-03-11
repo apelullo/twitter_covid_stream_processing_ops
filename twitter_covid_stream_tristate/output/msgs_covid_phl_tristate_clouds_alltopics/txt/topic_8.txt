@@ -1,0 +1,15 @@
+order	25	810000
+today	22	b20b16
+curbside	21	b61233
+online	18	991452
+call	17	791873
+ordering	16	401db1
+open	16	5c1a92
+pick	15	3030c7
+delivery	15	2320cf
+free	14	4141bc
+tomorrow	13	5454af
+pickup	12	6565a4
+live	11	767698
+pm	10	9898a0
+times	10	868699

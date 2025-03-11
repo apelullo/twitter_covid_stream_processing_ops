@@ -1,0 +1,15 @@
+pandemic	25	810000
+...	16	b20b16
+it's	13	b61233
+..	12	791873
+life	12	991452
+things	11	4141bc
+feel	11	3030c7
+lives	11	2320cf
+bad	11	401db1
+make	11	5c1a92
+good	10	9898a0
+normal	10	868699
+don't	10	767698
+lot	10	6565a4
+can't	10	5454af

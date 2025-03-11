@@ -1,0 +1,15 @@
+pennsylvania	25	810000
+philadelphia	21	b20b16
+#quarantine	17	b61233
+..	16	5c1a92
+#stayhome	16	791873
+jersey	16	991452
+philly	14	401db1
+#quarantinelife	13	3030c7
+#socialdistancing	13	2320cf
+#philly	12	5454af
+#staysafe	12	4141bc
+#philadelphia	10	9898a0
+2020	10	868699
+park	10	767698
+#stayathome	10	6565a4

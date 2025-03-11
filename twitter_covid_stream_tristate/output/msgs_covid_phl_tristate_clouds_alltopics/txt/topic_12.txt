@@ -1,0 +1,15 @@
+covid-19	25	810000
+workers	21	b20b16
+support	17	b61233
+healthcare	13	991452
+community	12	3030c7
+essential	12	2320cf
+team	12	401db1
+fight	12	5c1a92
+care	12	791873
+health	11	4141bc
+making	10	9898a0
+working	10	868699
+great	10	767698
+medical	10	6565a4
+front	10	5454af

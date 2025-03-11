@@ -1,0 +1,15 @@
+#covid19	25	810000
+health	14	b20b16
+crisis	12	b61233
+public	11	401db1
+important	11	5c1a92
+check	11	791873
+made	11	991452
+#sdoh	10	9898a0
+economic	10	868699
+#pdoh	10	767698
+impact	10	6565a4
+mental	10	5454af
+piece	10	4141bc
+system	10	3030c7
+stuck	10	2320cf

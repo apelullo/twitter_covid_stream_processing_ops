@@ -1,0 +1,15 @@
+quarantine	25	810000
+ve	13	b61233
+time	13	b20b16
+watching	11	791873
+love	11	991452
+watch	10	9898a0
+thing	10	868699
+live	10	767698
+show	10	6565a4
+season	10	5454af
+life	10	4141bc
+night	10	3030c7
+play	10	2320cf
+ll	10	401db1
+video	10	5c1a92

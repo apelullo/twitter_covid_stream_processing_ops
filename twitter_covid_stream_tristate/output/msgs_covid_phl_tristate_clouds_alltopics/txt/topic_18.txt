@@ -1,0 +1,15 @@
+#coronavirus	25	810000
+#covid19	24	b20b16
+#covid	16	b61233
+#covid_19	15	991452
+#stayhome	14	791873
+19	12	2320cf
+#quarantine	12	401db1
+#pandemic	12	5c1a92
+#coronaviruspandemic	10	9898a0
+video	10	868699
+#socialdistancing	10	767698
+#covid19pandemic	10	6565a4
+#stayathome	10	5454af
+#flattenthecurve	10	4141bc
+#covidiots	10	3030c7

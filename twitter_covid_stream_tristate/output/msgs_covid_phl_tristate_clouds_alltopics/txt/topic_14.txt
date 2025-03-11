@@ -1,0 +1,15 @@
+coronavirus	25	810000
+deaths	18	b20b16
+covid-19	17	b61233
+cases	16	991452
+state	14	791873
+death	13	5c1a92
+died	12	401db1
+county	11	5454af
+number	11	4141bc
+million	11	3030c7
+pa	11	2320cf
+numbers	10	9898a0
+news	10	868699
+total	10	767698
+governor	10	6565a4

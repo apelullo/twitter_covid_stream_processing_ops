@@ -1,0 +1,15 @@
+virus	25	810000
+people	21	b20b16
+trump	13	b61233
+back	11	5c1a92
+stupid	11	791873
+don't	11	991452
+@realdonaldtrump	10	9898a0
+economy	10	868699
+die	10	767698
+lives	10	6565a4
+sick	10	5454af
+care	10	4141bc
+dying	10	3030c7
+country	10	2320cf
+americans	10	401db1

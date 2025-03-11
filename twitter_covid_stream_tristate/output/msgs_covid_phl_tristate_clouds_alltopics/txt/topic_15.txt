@@ -1,0 +1,15 @@
+home	25	810000
+stay	20	b20b16
+safe	14	991452
+day	14	b61233
+work	13	791873
+family	12	2320cf
+hope	12	401db1
+today	12	5c1a92
+good	11	4141bc
+working	11	3030c7
+love	10	9898a0
+healthy	10	868699
+great	10	767698
+happy	10	6565a4
+staying	10	5454af

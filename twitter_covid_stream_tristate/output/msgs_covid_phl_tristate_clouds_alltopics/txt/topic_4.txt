@@ -1,0 +1,15 @@
+due	25	810000
+back	14	b61233
+ago	14	b20b16
+business	13	791873
+year	13	991452
+years	12	401db1
+family	12	5c1a92
+money	11	6565a4
+school	11	5454af
+pay	11	4141bc
+month	11	3030c7
+weeks	11	2320cf
+mom	10	9898a0
+lost	10	868699
+week	10	767698

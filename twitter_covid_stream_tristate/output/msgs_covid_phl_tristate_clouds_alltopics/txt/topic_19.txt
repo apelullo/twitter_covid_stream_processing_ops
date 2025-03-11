@@ -1,0 +1,15 @@
+virus	25	810000
+dr	12	b61233
+corona	12	b20b16
+flu	11	5c1a92
+covid19	11	791873
+vaccine	11	991452
+cure	10	9898a0
+viruses	10	868699
+kill	10	767698
+body	10	6565a4
+science	10	5454af
+fauci	10	4141bc
+disinfectant	10	3030c7
+person	10	2320cf
+sense	10	401db1
