@@ -1,2 +1,3 @@
-# twitter_covid_stream_processing_ops
- An AWS-based data pipeline to collect, process, store, and monitor Twitter streaming data thoughout the COVID-19 pandemic in support of local and national public health initiatives.
+# Twitter COVID-19 Stream Processing - An AWS-based data pipeline to collect, process, store, and monitor Twitter streaming data thoughout the COVID-19 pandemic
+* **Description**: A core component of the Center for Digital Health (CDH) AWS data infrastructure and project portfolio, which enabled real-time surveillance of emerging trends at regional and national levels, rapid implementation of local education and support programs, and high-impact academic research at the intersection of public health, epidemiology, and natural language processing. 
+ * **Role**: *Lead Data Scientist* allocated to the Twitter COVID-19 stream processing project and related initiatives.
